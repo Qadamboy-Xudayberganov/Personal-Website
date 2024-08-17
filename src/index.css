@@ -1,8 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("https://fonts.googleapis.com/css2?family=GFS+Neohellenic:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@100..900&family=Kalnia+Glaze:wght@100..700&family=Playwrite+US+Trad:wght@100..400&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+80s+Fade&family=Signika+Negative:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=GFS+Neohellenic:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@100..900&family=Kalnia+Glaze:wght@100..700&family=Playwrite+DE+Grund:wght@100..400&family=Playwrite+US+Trad:wght@100..400&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+80s+Fade&family=Signika+Negative:wght@300..700&display=swap");
 
 * {
-  font-family: "Playwrite US Trad", cursive;
+  font-family: "Roboto", sans-serif;
 }
